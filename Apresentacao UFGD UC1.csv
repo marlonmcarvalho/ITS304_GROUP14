@@ -1,0 +1,26 @@
+﻿Universidade:;UNIVERSIDADE FEDERAL DA GRANDE DOURADOS;;;;;;;
+Número de Ucs:;3;;;;;;;
+;;;;;;;;
+;;;UC;Nome do Campus;Distribuidora;Subgrupo;Endereço;UC
+;;;1;Unidade II UFGD - FUNDACAO UNIVERSIDADE FEDERAL DA GRANDE DOURADOS;Energisa;A4;Rod Dourados Itahum, , Km 12  - Rural - CEP: 79804-970 - Dourados - MS;90021100
+;;;2;Reitoria - FUND UNIV FED DA GDE DOURADOS;Energisa;A4;RUA JOAO ROSA GOES, 1761 - VILA PROGRESSO _ DOURADOS - MS - 79825-070;743143
+;;;3;Moradia;Energia;A4;Rua Joao Ayres da Silva, 100 - Altos do Indaia - CEP: 79823-672 - Dourados - MS;31088821
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+Observações:;Byron github;https://github.com/byronacunia/IT304S.git;;;;;;
+;UC 1 representa acima de 90% do consumo;;;;;;;
+;Adicionada as seguintes colunas relacionada a geração de energia em 2020;;;;;;;
+;;;;;;;;
+;Energ_Atv_Inj_P;Energia Ativa Injetada em Ponta (KWh);;;;;;
+;Energ_Atv_Inj_FP;Energia Ativa Injetada Fora de Ponta (KWh);;;;;;
+;TAR_INJ_KWH_P;Tarifa Energia Ativa Injetada em ponta(R$/KWh);;;;;;
+;TAR_INJ_KWH_FP;Tarifa Energia Ativa Injetada fora de ponta(R$/KWh);;;;;;
